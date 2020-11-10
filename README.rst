@@ -11,7 +11,7 @@ The goal of the project is to help developers easily learn new frameworks by exa
 Notejam is a unified sample web application (more than just "Hello World") implemented using different server-side frameworks.
 Currently python, php, ruby and javascript frameworks are supported.
 
-Test commit: 2
+Test commit: 3
 
 ====================
 Supported frameworks
